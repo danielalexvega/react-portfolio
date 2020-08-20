@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.5028297b.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.8cfe96b1.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.8cfe96b1.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.0db8eee6.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.889d2c64.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.889d2c64.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/css/2.e4346227.chunk.css": "/react-portfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.a0513322.chunk.js": "/react-portfolio/static/js/2.a0513322.chunk.js",
-    "static/js/2.a0513322.chunk.js.map": "/react-portfolio/static/js/2.a0513322.chunk.js.map",
+    "static/js/2.ec9908cd.chunk.js": "/react-portfolio/static/js/2.ec9908cd.chunk.js",
+    "static/js/2.ec9908cd.chunk.js.map": "/react-portfolio/static/js/2.ec9908cd.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.2e7612677f5ebd8e297fa0df98023413.js": "/react-portfolio/precache-manifest.2e7612677f5ebd8e297fa0df98023413.js",
+    "precache-manifest.90931ccca8017782303971515ecdd03e.js": "/react-portfolio/precache-manifest.90931ccca8017782303971515ecdd03e.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/react-portfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.5028297b.chunk.css.map": "/react-portfolio/static/css/main.5028297b.chunk.css.map",
-    "static/js/2.a0513322.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.a0513322.chunk.js.LICENSE.txt",
+    "static/css/main.0db8eee6.chunk.css.map": "/react-portfolio/static/css/main.0db8eee6.chunk.css.map",
+    "static/js/2.ec9908cd.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ec9908cd.chunk.js.LICENSE.txt",
     "static/media/logo-white-trans.png": "/react-portfolio/static/media/logo-white-trans.8ab177b2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.a0513322.chunk.js",
-    "static/css/main.5028297b.chunk.css",
-    "static/js/main.8cfe96b1.chunk.js"
+    "static/js/2.ec9908cd.chunk.js",
+    "static/css/main.0db8eee6.chunk.css",
+    "static/js/main.889d2c64.chunk.js"
   ]
 }
